@@ -1,0 +1,8 @@
+server:
+    port: 9383
+
+
+microservices:
+   servers: AucPick
+   name: Testing sever
+   ips: "http://173.38.3.3"
